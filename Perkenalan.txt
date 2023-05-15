@@ -3,3 +3,4 @@ Address: Madiun
 Job: Backend Engineer
 Hobby: Futsal
 Gender: Male
+Kelas : TI E
